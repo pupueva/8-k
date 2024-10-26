@@ -1,0 +1,4 @@
+﻿  8 лабка.c
+C:\Users\Любовь\source\repos\8 лаба\8 лаба\8 лабка.c(92,24): warning C4047: функция: "int" отличается по уровням косвенного обращения от "double (__cdecl *)(double)"
+C:\Users\Любовь\source\repos\8 лаба\8 лаба\8 лабка.c(92,24): warning C4024: formula: различные типы для формального и фактического параметров 2
+  8 лаба.vcxproj -> C:\Users\Любовь\source\repos\8 лаба\x64\Debug\8 лаба.exe
